@@ -1,7 +1,7 @@
 import React, { Component } from "react";
 import ReactDOM from "react-dom";
-import { BrowserRouter as Router, Switch, Route, Link } from "react-router-dom";
-import AlignmentExercise from "./alignement-exercise";
+import { BrowserRouter as Router, Switch, Route } from "react-router-dom";
+import AlignmentExercise from "./css-exercises/align-square/align-square";
 
 class App extends Component {
   render() {

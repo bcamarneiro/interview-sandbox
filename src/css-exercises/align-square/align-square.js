@@ -1,5 +1,5 @@
 import React, { Component } from "react";
-import "./styles.scss";
+import "./align-square.scss";
 
 const SQUARE_BASE_HEIGHT = 50;
 const SQUARE_BASE_WIDTH = 50;
